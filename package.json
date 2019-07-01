@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sezalcru/reveal-cli.git"
+    "url": "git+https://github.com/kostasx/reveal-cli.git"
   },
   "author": "Cesar Cruz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sezalcru/reveal-cli/issues"
+    "url": "https://github.com/kostasx/reveal-cli/issues"
   },
-  "homepage": "https://github.com/sezalcru/reveal-cli#readme",
+  "homepage": "https://github.com/kostasx/reveal-cli#readme",
   "dependencies": {
     "adm-zip": "^0.4.7",
     "async": "^2.1.2",
@@ -27,6 +27,7 @@
     "gh-pages": "^0.11.0",
     "nock": "^9.0.2",
     "request": "^2.75.0",
+    "rimraf": "^2.6.3",
     "simple-git": "^1.61.0",
     "uuid": "^3.0.0",
     "yargs": "^4.7.1"
